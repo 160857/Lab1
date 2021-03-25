@@ -24,4 +24,30 @@ echo Rozdzial3 > Rozdzial3.txt
 
 git add Rozdzial2.txt Rozdzial3.txt
 
+git add -u 
+
+git commit
+
+git log
+
+git checkou
+
+git checkou 667a23c
+
+git chout master
+
+git reamote add origin https://github.com/160857/Lab1.git
+
+
+git branch -M main 
+
+git push -u origin main
+
+git add -u
+
+git commit
+
+git push
+
+git clon
 
